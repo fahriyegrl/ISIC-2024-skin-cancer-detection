@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 *.hdf5 filter=lfs diff=lfs merge=lfs -text
+=======
+*.csv filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 83afe53efb2c29ca11fb71df90cc15e234c08919
